@@ -1,3 +1,3 @@
 # Editor
 
-Object editor GUI in C++ and Qt.
+Draw editor GUI in C++ and Qt.
